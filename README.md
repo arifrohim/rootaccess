@@ -13,5 +13,3 @@ wget https://raw.githubusercontent.com/arifrohim/rootaccess/master/gcsshd_config
 mv gcsshd_config sshd_config
 sudo service sshd restart
 cd
-
-
