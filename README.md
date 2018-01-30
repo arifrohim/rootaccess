@@ -3,6 +3,7 @@ Root Access for GC and AWS
 To get root access via putty without key is realy simple
 Please login to browser console
 Enter below command:
+
 sudo su root
 passwd root
 (Create new root password and confirm)
