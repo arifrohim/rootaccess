@@ -21,3 +21,5 @@ mv gcsshd_config sshd_config
 sudo service sshd restart
 
 cd
+
+Now you can login to you VPS via putty as root with your password without any key
